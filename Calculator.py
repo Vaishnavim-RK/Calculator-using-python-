@@ -1,10 +1,11 @@
+# Get first number 
 num1_first= input("Enter the first number: ")
 num1 = float(num1_first)
 
-# Get the desired operation from the user
+# Get the desired operation 
 operation = input("Enter the operation (+, -, *, /): ")
 
-# Get the second number from the user
+# Get the second number
 num2_sec = input("Enter the second number: ")
 num2 = float(num2_sec)
 
