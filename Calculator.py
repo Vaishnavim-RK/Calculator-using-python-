@@ -1,5 +1,5 @@
 num1_first= input("Enter the first number: ")
-num1 = float(num1_fitst)
+num1 = float(num1_first)
 
 # Get the desired operation from the user
 operation = input("Enter the operation (+, -, *, /): ")
